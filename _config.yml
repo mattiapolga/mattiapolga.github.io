@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mattiapolga.github.io
+title: MAAAT
+paginate: 10
